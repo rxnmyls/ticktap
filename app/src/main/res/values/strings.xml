@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ticktap</string>
+    
+    <!-- Priority options for task creation -->
+    <string-array name="priority_options">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
 </resources>
